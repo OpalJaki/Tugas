@@ -76,4 +76,32 @@ Dengan demikian, pengguna Linux Mint dapat menikmati pengalaman produktivitas ya
 
 Windows 11:
 
+<img src="https://github.com/user-attachments/assets/7e467c8d-fd33-40f3-a339-bc9297191230" width="300"/>
 
+Linux Mint:
+
+<img src="https://github.com/user-attachments/assets/4b37e587-0e1e-4989-8da0-284aa6519ba2" width=""/>
+
+Pada menu Start, tidak terdapat perbedaan yang terlalu mencolok antara Windows 11 dan Linux Mint, karena keduanya dirancang untuk memberikan kemudahan akses terhadap aplikasi, pengaturan sistem, dan berbagai fitur yang sering digunakan oleh penggunaan. Windows 11 menghadirkan menu Start dengan tampilan yang lebih modern dan minimalis dibandingkan dengan versi Windows sebelumnya. Menu ini terletak di tengah secara default, tetapi dapat dipindahkan ke kiri sesuai preferensi pengguna.
+
+Di sisi lain, Linux Mint menggunakan menu Start yang lebih klasik dan familiar, menyerupai tampilan yang digunakan oleh Windows sebelum versi 8. Menu ini biasanya terletak di sudut kiri bawah layar, dengan struktur yang lebih tradisional berupa daftar aplikasi yang dikelompokkan berdasarkan kategori seperti Internet, Office, Multimedia, dan System Tools.
+
+**5. Settings**
+
+Windows 11:
+
+<img src="https://github.com/user-attachments/assets/3efcd3dd-3e95-4395-9d4a-87a480bc7496" width="300"/>
+
+Linux Mint:
+
+<img src="https://github.com/user-attachments/assets/cd2dfb45-e183-4ea3-9538-b62a72dc28b5" width="300"/>
+
+Di Windows 11, ketika pengguna membuka Settings, sistem akan menampilkan jendela baru dengan tampilan yang lebih modern dan terstruktur. Pengaturan di Windows 11 terbagi menjadi beberapa kategori utama, seperti System, Devices, Network & Internet, Personalization, Apps, Accounts, Time & Language, serta Update & Security. Setiap kategori memiliki submenu yang lebih spesifik, yang memungkinkan pengguna untuk menyesuaikan berbagai aspek sistem dengan lebih mudah. Selain itu, Windows 11 juga sering membuka halaman pengaturan tertentu dalam jendela baru atau bahkan mengarahkan pengguna ke laman pengaturan berbasis web, terutama jika berkaitan dengan layanan Microsoft seperti akun Microsoft, OneDrive, atau Windows Update.
+
+Di sisi lain, Linux Mint menggunakan pendekatan yang lebih sederhana dan efisien dalam menampilkan pengaturan sistem. Ketika pengguna membuka System Settings, jendela utama akan tetap terbuka, dan semua pengaturan dapat diakses dalam satu antarmuka tanpa perlu membuka halaman baru atau jendela tambahan. Pengaturan di Linux Mint juga dikategorikan dengan jelas, seperti Appearance, Preferences, Hardware, dan Administration, sehingga pengguna dapat dengan mudah menavigasi dan menemukan opsi yang diperlukan. Selain itu, karena Linux Mint tidak memiliki ekosistem layanan berbasis cloud yang terintegrasi secara mendalam seperti Windows 11, pengguna tidak akan diarahkan ke halaman web eksternal untuk mengelola akun atau layanan tertentu.
+
+# Kesimpulan
+
+Windows 11 cocok bagi pengguna yang membutuhkan integrasi dengan layanan Microsoft, dukungan aplikasi komersial, serta kompatibilitas luas dengan software dan hardware. Sistem ini ideal untuk industri yang mengandalkan aplikasi eksklusif.
+
+Sebaliknya, Linux Mint lebih unggul dalam hal performa, efisiensi, dan kebebasan dari lisensi berbayar. Dengan sistem yang lebih ringan, tanpa banyak proses latar belakang, serta kontrol penuh bagi pengguna, Linux Mint menjadi pilihan ideal bagi mereka yang mengutamakan kestabilan dan fleksibilitas tanpa beban tambahan.
